@@ -1,16 +1,19 @@
-### Hi there 👋
+# 🐈 Bienvenidos a mi github:
+¡Hola! Soy Ander, un apasionado programador de 26 años con una sólida experiencia en el sector tecnológico y un reciente especialización en Inteligencia Artificial y Análisis de Datos (la primera promoción de la historia del país vasco)<br><br>En un mercado tan dinámico y competitivo como el tecnológico, entiendo la importancia de no solo seguir el ritmo de la innovación, sino de liderarlo. Mis años de experiencia combinados con mi formación  me han posicionado como un candidato excepcionalmente versátil y capacitado para enfrentar los desafíos más complejos de hoy y del mañana.<br><br>Mi compromiso con la excelencia técnica y la creatividad me ha llevado a estar constantemente inmerso en las últimas tendencias y tecnologías emergentes. Desde el aprendizaje automático hasta la computación en la nube y la ciberseguridad, estoy siempre buscando oportunidades para ampliar mis conocimientos y aplicarlos de manera innovadora en proyectos reales.<br><br>Lo que distingue mi enfoque es mi capacidad para no solo comprender la tecnología, sino también para visualizar cómo puede aplicarse de manera estratégica para impulsar el crecimiento empresarial. Mi historial de éxito incluye la implementación de soluciones de IA que han mejorado la eficiencia operativa, optimizado el análisis de datos para la toma de decisiones y generado nuevas oportunidades de ingresos para mis empleadores y clientes.<br><br>Estoy ansioso por unirme a un equipo visionario donde pueda contribuir con mi experiencia y pasión por la innovación. Si estás buscando un colaborador proactivo y orientado a resultados que pueda llevar tus proyectos al siguiente nivel, ¡estoy emocionado de hablar contigo!
 
-<!--
-**anderduro/anderduro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anderduro) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![KIBANA](https://img.shields.io/badge/kibana-005571.svg?style=for-the-badge&logo=kibana&logoColor=white&color=%23005571) ![GRAFANA](https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white&color=%23F46800) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=anderduro&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=anderduro&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anderduro&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=anderduro&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=anderduro&icon=0&color=0)](https://visitcount.itsvg.in)
